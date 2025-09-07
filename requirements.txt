@@ -1,0 +1,17 @@
+# EEG Bridge Dependencies
+# Core scientific computing
+numpy>=1.21.0
+scipy>=1.7.0
+
+# Machine learning
+scikit-learn>=1.0.0
+joblib>=1.0.0
+
+# EEG data acquisition
+brainflow>=5.0.0
+pylsl>=1.16.0
+
+# Optional: MNE for advanced signal processing
+mne>=1.0.0
+
+# Note: Install with: pip install -r requirements.txt
